@@ -1,9 +1,6 @@
-Here's your **detailed `README.md`** for the PHP Task CLI project, covering setup, usage, and enhancements:
-
----
 
 # 🧰 Task CLI - Command Line Task Manager
-
+### project URL : https://roadmap.sh/projects/task-tracker
 ## 📌 Overview
 
 **Task CLI** is a lightweight PHP-based command-line tool for managing tasks. It supports adding, listing, updating, deleting, and marking tasks as done or in-progress. Tasks are stored in a local JSON file, making it simple and portable.
@@ -129,6 +126,3 @@ task-cli add "Read a book"
 - Add search/filter functionality
 - Integrate with a database
 
----
-
-Would you like me to save this as a downloadable `README.md` file for you?
