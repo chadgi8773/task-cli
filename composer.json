@@ -8,8 +8,7 @@
     "autoload": {
     "psr-4": {
         "TaskCli\\": "src/"
-    },
-    "bin": ["src/cli.php"]
+    }
 }
 
 }
