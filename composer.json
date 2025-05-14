@@ -5,11 +5,11 @@
     "require": {
         "php": "^8.4"
     },
-    "license": "MIT",
     "autoload": {
     "psr-4": {
         "TaskCli\\": "src/"
-    }
+    },
+    "bin": ["src/cli.php"]
 }
 
 }
